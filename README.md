@@ -14,11 +14,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbami&show_icons=true&locale=en&layout=compact" alt="matbami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matbami&show_icons=true&locale=en" alt="matbami" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbami&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="matbami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matbami&" alt="matbami" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matbami&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="matbami" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matbami&theme=dark#gh-dark-mode-only" alt="matbami" /></p>
 
 
 
